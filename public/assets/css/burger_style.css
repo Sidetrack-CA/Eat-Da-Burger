@@ -1,0 +1,36 @@
+.jumbotron {
+    background-color: white !important;
+    background-image: url("/assets/img/chomp.png");
+    background-repeat: no-repeat;
+    background-size: 40%;
+    background-position: right;
+    margin-top: 10px;
+}
+
+#newburger {
+    border-radius: 5px;
+}
+
+
+#lefthead {
+    background-color: #668423;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+
+#righthead {
+    background-color: #842365;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#chompbutton, #removebutton {
+    float: right;
+}
+
+#header1 {
+    color: blue;
+}
